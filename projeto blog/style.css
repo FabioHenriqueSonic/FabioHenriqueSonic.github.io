@@ -1,0 +1,86 @@
+table {
+    background-color: rgb(155, 255, 160);
+    color: rgb(0, 74, 211);
+    text-align: center;
+    margin: auto;
+}
+
+.centerTable { margin: 0px auto; }
+
+body {
+    background-image: url("mídias/download.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.section {
+    background-color: rgb(109, 160, 255);
+    border: 5px solid black;
+    margin: 100px;
+}
+
+.centersection { margin: 0px auto;}
+
+.container {
+    float: left;
+}
+
+footer {
+    background-color:red;
+    width: auto;
+    height: auto;
+    border: 5px solid black;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.a {
+    display: flex;
+    justify-content: center;
+}
+
+.b {
+    display: flex;
+    justify-content: center;
+}
+
+.po {
+    display: flex;
+    justify-content: center;
+}
+
+.no-stretch {
+    display: flex;
+    justify-content: center;
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+}
+
+.e {
+    display: flex;
+    justify-content: center;
+}
+
+.bonus {
+    display: flex;
+    justify-content: center;
+}
