@@ -122,8 +122,13 @@ button {
 }
 
 .footer {
-    background-color: #7bd8f162;
-    min-height: 100px;
+    background-color:rgb(119, 61, 105);
+    height: auto;
+    width: auto;
+    border: 5px solid black;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 #texto-sobre-mim {
